@@ -1,0 +1,6 @@
+{
+  "title": "$name$",
+  "sections": [
+    "$name$"
+  ]
+}
